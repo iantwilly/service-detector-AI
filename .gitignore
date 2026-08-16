@@ -1,0 +1,5 @@
+env
+*.md
+/backend/__pycache__/
+/backend/.env
+.env
